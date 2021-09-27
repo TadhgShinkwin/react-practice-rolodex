@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-practice-rolodex/static/css/main.aa546bc1.chunk.css",
+    "main.js": "/react-practice-rolodex/static/js/main.242eeec4.chunk.js",
+    "main.js.map": "/react-practice-rolodex/static/js/main.242eeec4.chunk.js.map",
+    "runtime-main.js": "/react-practice-rolodex/static/js/runtime-main.c32c3f54.js",
+    "runtime-main.js.map": "/react-practice-rolodex/static/js/runtime-main.c32c3f54.js.map",
+    "static/js/2.f320b279.chunk.js": "/react-practice-rolodex/static/js/2.f320b279.chunk.js",
+    "static/js/2.f320b279.chunk.js.map": "/react-practice-rolodex/static/js/2.f320b279.chunk.js.map",
+    "static/js/3.aab93fdf.chunk.js": "/react-practice-rolodex/static/js/3.aab93fdf.chunk.js",
+    "static/js/3.aab93fdf.chunk.js.map": "/react-practice-rolodex/static/js/3.aab93fdf.chunk.js.map",
+    "index.html": "/react-practice-rolodex/index.html",
+    "static/css/main.aa546bc1.chunk.css.map": "/react-practice-rolodex/static/css/main.aa546bc1.chunk.css.map",
+    "static/js/2.f320b279.chunk.js.LICENSE.txt": "/react-practice-rolodex/static/js/2.f320b279.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c32c3f54.js",
+    "static/js/2.f320b279.chunk.js",
+    "static/css/main.aa546bc1.chunk.css",
+    "static/js/main.242eeec4.chunk.js"
+  ]
+}
